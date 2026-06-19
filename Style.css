@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, sans-serif;
+    line-height:1.6;
+}
+
+header{
+    background:#0F5132;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+#hero{
+    text-align:center;
+    padding:80px 20px;
+    background:#FFF8E7;
+}
+
+#hero h2{
+    font-size:3rem;
+}
+
+button{
+    margin-top:20px;
+    padding:12px 24px;
+    border:none;
+    background:#F4B400;
+    cursor:pointer;
+}
+
+#about{
+    padding:50px 20px;
+}
